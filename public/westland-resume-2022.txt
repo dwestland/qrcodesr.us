@@ -1,0 +1,44 @@
+Resume
+
+Don Westland
+Front End Developer
+
+4712 Admiralty Way #1144
+Marina del Rey, CA 90292
+
+310-721-7442
+
+don@westland.net
+
+Project Site: https://www.DonWestland.com/
+
+GitHub: https://github.com/dwestland
+
+Skills
+
+Front End: JavaScript, TypeScript, React Classes & Hooks, Next.js, Redux, Saga, Webpack, React Query, RegEx, SCSS DevOps: Docker, AWS, EC2, RDS, S3, CloudFront, Linux security and administration Backend: Node, Express, Postgres, Nginx, Authentication, SQL, Pg, Prisma, PM2, bash scripting, Jest, REST, GraphQL Team: Jira, Gitflow, Scrum, Agile, code reviews
+
+Experience
+
+Internet Brands - WebMD / Front End Developer
+OCT 2017 - PRESENT, EL SEGUNDO, CA
+Develop HIPAA compliant telemedicine applications. Use React with deeply nested Redux state using REST APIs. Add new features to legacy code. Build pixel-perfect UI from Figma. Use SQL scripts to update Postgres DB. Create performant, clean code designed for maintainability. Scrum based workflow with two week sprints using Jira. Perform code reviews and mentor new team members. Work closely with local team members as well as international teams.
+Technologies used: React, Redux, Saga, SQL, JavaScript, CoffeeScript, Postgres, REST, GraphQL, RegEx, Webpack, GitLab, Jest, Docker
+
+IRS Express / Developer
+AUG 2015 - OCT 2017, BEVERLY HILLS, CA
+Developed a legal services app for IRS debt reduction which calculates the tax payer's strategy for the IRS. Determines tax payer's allowable expenses by their demographics. Produced completed PDF forms for proper IRS submission.
+Technologies used: Python, Django, Postgres, AWS, EC2, RDS,PHP, Angular, JavaScript, jQuery, Gulp, Wordpress, Premiere Pro, Photoshop
+
+Westland Traveler / Business Owner
+2013 - 2017, MARINA DEL REY
+Built and maintained a hotel reservation system with the Expedia hotel booking database. Drove traffic using SEO and content marketing. Created several high traffic travel content websites to drive traffic to booking site.
+Technologies used: Wordpress, PHP, SEO, JavaScript, jQuery, Gulp, HTML, SASS, Premiere Pro, Photoshop
+
+Freelance Developer / Business Owner
+2011 - 2015, MARINA DEL REY
+Technical and marketing services. Content Advertising. Specializing in driving traffic using SEO, content marketing and AdWords. Created high traffic websites using Wordpress and LAMP stack. Performed A/B Testing.
+Technologies used: WordPress, Drupal, PHP, jQuery, Flash, JavaScript, MySQL, Gulp, Bootstrap, Photoshop, SEO, JavaScript, HTML and CSS
+
+Education
+Santa Monica College / AA Business Administration

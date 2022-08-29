@@ -1,0 +1,122 @@
+/* Global Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+  margin: auto;
+  max-width: 1200px;
+  padding: 0 30px;
+}
+
+/* Forms
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+form {
+  .row {
+    margin-top: 10px;
+  }
+
+  input[type='text'],
+  input[type='email'] {
+    height: 30px;
+    padding: 5px;
+    width: 100%;
+  }
+
+  textarea {
+    font-family: inherit;
+    height: 100px;
+    padding: 5px;
+    width: 100%;
+  }
+
+  input[type='submit'] {
+    display: block;
+    height: 40px;
+    margin: 20px 0 30px;
+    width: 100%;
+  }
+
+  select {
+    display: block;
+    padding: 6px;
+    width: 200px;
+  }
+}
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.btn {
+  background: var(--blue-070);
+  border-radius: 5px;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 20px;
+  &:hover {
+    opacity: 0.85;
+  }
+}
+
+.ghost-button {
+  background: none;
+  border: 2px solid var(--blue-060);
+  color: var(--blue-070);
+  font-weight: bold;
+  &:hover {
+    background: var(--blue-020);
+  }
+}
+
+.btn-secondary {
+  background: var(--black-090);
+  border-radius: 5px;
+  border: 0;
+  color: #fff !important;
+  cursor: pointer;
+  font-size: 13px;
+  font: inherit;
+  margin: 0 20px;
+  padding: 5px 15px;
+  &:hover {
+    opacity: 0.85;
+  }
+}
+
+.link-as-button {
+  background: var(--blue-070);
+  border-radius: 5px;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  padding: 5px 20px;
+  text-decoration: none;
+  &:hover {
+    opacity: 0.85;
+    text-decoration: none;
+    color: #fff;
+  }
+}
+
+/* Box Shadow
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.bs {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(104, 76, 76, 0.3);
+}
+
+/* Embedded YouTube Videos
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.video-responsive {
+  border-radius: 5px;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.video-responsive iframe {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
